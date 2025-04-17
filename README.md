@@ -16,8 +16,10 @@ Step 1: Clone the Project Repository
 
 Download the project to your local machine by running:
 
-'''git clone https://github.com/[YourGitHubUsername]/AI-ML-Project.git
-cd AI-ML-Project'''
+```bash
+git clone https://github.com/[YourGitHubUsername]/AI-ML-Project.git
+cd AI-ML-Project
+```
 
 Step 2: Set Up a Virtual Environment
 
