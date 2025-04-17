@@ -25,12 +25,16 @@ Step 2: Set Up a Virtual Environment
 
 To avoid dependency issues, create and activate a virtual environment:
 
+```bash
 python -m venv venv
 source venv/bin/activate     # On Unix or macOS
 venv\Scripts\activate        # On Windows
+```
 
 Step 3: Install Required Packages
 
 Install all the dependencies listed in the requirements.txt file:
 
+```bash
 pip install -r requirements.txt
+```
